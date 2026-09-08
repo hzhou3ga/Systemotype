@@ -1,4 +1,4 @@
-see readme.txt in each batch for usages and repreducingesults
+see readme.txt in each batch for usages and reproducing results
 
 require 
 linux OS  
